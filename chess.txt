@@ -1,0 +1,6 @@
+chess.txt
+Created Thu Apr 20 08:00:01 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Chess
